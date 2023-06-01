@@ -1,0 +1,31 @@
+body,
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.el-col {
+  border-radius: 4px;
+}
+
+.container {
+  height: 100vh;
+}
+
+html {
+  --el-bg-color: #f4f5fc !important;
+  --el-checkbox-font-size: 10px;
+}
+
+.el-checkbox .el-checkbox--large .el-checkbox__label {
+  font-size: 12px !important;
+  --el-checkbox-font-size: 10px;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
