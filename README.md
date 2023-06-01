@@ -1,4 +1,8 @@
 # vue3_notepad
+## Online preview
+```
+https://lemondin.github.io/Vue3_notepad/dist/
+```
 
 ## Project setup
 ```
